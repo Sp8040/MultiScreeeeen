@@ -1,0 +1,9 @@
+<resources>
+        <string name="app_name">Куда бы поехать в отпуск?</string>
+        <string name="action_settings">Settings</string>
+        <string name="enjoy">Веселись!</string>
+        <string name="rub">Кубик Рубика</string>
+        <string name="kar">Картина</string>
+        <string name="ill">Иллюзия</string>
+        <string name="clo">Часы</string>
+</resources>
